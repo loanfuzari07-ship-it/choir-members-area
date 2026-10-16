@@ -1,0 +1,42 @@
+CHOIR IN HARMONY - COMPLETE MEMBERS AREA
+
+START HERE
+Open index.html in a current browser. Keep the assets, files, and previews
+folders beside it. Everything works locally without installing an app.
+For online use, upload the entire folder structure to an HTML-capable host.
+
+YOUR RESOURCES
+120 activities, one A4 portrait page per activity, in 12 categories.
+120 HD PNG previews (1720 x approximately 2433 pixels).
+12 category PDFs, each containing ten activities.
+Main collection: files/120-choir-activities.pdf (140 pages, including guidance,
+category openings, planning sheets, and a reference note).
+
+BONUSES
+20 vocal routines: files/bonuses/20-vocal-routines.pdf (22 pages).
+Stage guide: files/bonuses/stage-ready-choir.pdf (14 pages).
+30 rehearsal plans: files/bonuses/30-rehearsal-plans.pdf (32 pages).
+40 express warm-ups: files/bonuses/40-express-warm-ups.pdf (42 pages).
+All bonuses: files/all-four-bonuses.pdf (110 pages).
+Everything: files/complete-collection.pdf (250 pages).
+
+USING THE MEMBERS AREA
+The sidebar selects a category. Open shows the full PNG preview.
+PNG and PDF save individual files. The category toolbar offers a combined
+category PDF. Individual activity PDFs are in files/activities.
+The top download button offers the main collection, bonuses, or everything.
+Search covers every activity. Done marks are stored in this browser only.
+
+OWNER SETUP NOTE
+This static HTML library does not authenticate purchasers or validate
+DigitalGoat orders. For purchase-based access, place it behind your membership
+platform or configure hosting access controls. Completion marks are not access
+protection. This library includes all bonuses; provide only the main collection
+to Essential purchasers unless you intentionally include extras.
+
+USE AND PRINTING
+Read the opening guidance before leading activities. Use comfortable ranges,
+allow recovery, and adapt tasks for your singers. Print A4 at actual size or
+fit to the available paper, including Letter. PDF text remains sharp.
+For your own choir leadership, teaching, and internal rehearsals. Do not resell
+or publicly redistribute the collection.
